@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jasmeet-12/harsh/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[(https://github.com/jasmeet-12/harsh/blob/main/bandicam%202020-11-06%2016-20-17-837.mp4)]
+[![Watch the video](https://github.com/jasmeet-12/harsh/blob/main/bandicam%202020-11-06%2016-20-17-837.mp4)]
 
 ### Markdown
 
